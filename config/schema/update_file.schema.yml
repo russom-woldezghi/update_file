@@ -1,0 +1,23 @@
+field.storage_settings.update_file_upload:
+  type: mapping
+  label: Update File Upload(s) storage settings
+  mapping:
+    foo:
+      type: string
+      label: Foo
+
+field.field_settings.update_file_upload:
+  type: mapping
+  label: Update File Upload(s) field settings
+  mapping:
+    bar:
+      type: string
+      label: Bar
+
+field.value.update_file_upload:
+  type: mapping
+  label: Default value
+  mapping:
+    value:
+      type: label
+      label: Value
