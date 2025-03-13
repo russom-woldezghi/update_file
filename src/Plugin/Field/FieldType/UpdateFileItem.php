@@ -17,7 +17,7 @@ use Drupal\Core\TypedData\DataDefinition;
  * @FieldType(
  *   id = "update_file_upload",
  *   label = @Translation("Update File Upload(s)"),
- *   description = @Translation("Some description."),
+ *   description = @Translation("Update file uploads without file path changes."),
  *   default_widget = "string_textfield",
  *   default_formatter = "string",
  * )

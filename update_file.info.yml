@@ -1,5 +1,5 @@
 name: 'Update file'
 type: module
-description: '@todo Add description.'
-package: '@todo Add package'
+description: 'File upload support for updating uploaded files without file paths changing.'
+package: 'Files'
 core_version_requirement: ^10
